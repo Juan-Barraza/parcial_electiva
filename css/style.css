@@ -4,9 +4,17 @@
     margin: 0;
     text-align: center;
     align-items: center;
-    width: 35%;
-    height: 105vh;
+    width: 90%;
+    max-width: 600px;
+    min-height: 100vh;
     justify-content: center;
+    box-sizing: border-box;
+
+}
+
+header img {
+    max-width: 400px;
+    width: 90%;
 
 }
 
